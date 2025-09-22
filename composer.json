@@ -1,0 +1,27 @@
+{
+    "name": "ali/simple-git-cli",
+    "description": "Simple project to understand CLI and Composer",
+    "type": "project",
+    "license": "MIT",
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+
+    "authors": [
+        {
+            "name": "essachiAli"
+        }
+    ],
+
+    "require": {
+        
+    },
+    "scripts": {
+        
+    }
+
+
+}
